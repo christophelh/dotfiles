@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = chris.l.honore@gmail.com
-	name = christophe honore
+	name = christophe honore chris.l.honore@gmail.com
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
